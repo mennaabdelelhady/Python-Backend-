@@ -13,16 +13,11 @@ name = 'Tamara'
 
 
 #numbers
-number = 55
-number2 =str(number)
+number = 5
 print(2+3)
 print(62+37.764)
 print(62/37.764)
 print(30%4)
 print(23)
 print(number)
-print(number2)
-print('The number is '+number2)
-print(-5)
-print(abs(-5))
 

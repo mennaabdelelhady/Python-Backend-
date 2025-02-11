@@ -23,6 +23,4 @@ print(23)
 print(number)
 print(number2)
 print('The number is '+number2)
-print(-5)
-print(abs(-5))
 
