@@ -1,4 +1,4 @@
-from math import *
+#from math import *
 #print('Hello World,welcome')
 
 #name = 'Tamara'
@@ -36,6 +36,5 @@ print(sqrt(9))
 
 ##getting input from user
 name = input('Input your name: ')
-age = int(input('Input your age: '))
-print('Hello '+name+' you are ',age,' years old')
+print('Hello '+name)
 

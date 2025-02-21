@@ -36,6 +36,6 @@ print(sqrt(9))
 
 ##getting input from user
 name = input('Input your name: ')
-age = int(input('Input your age: '))
-print('Hello '+name+' you are ',age,' years old')
+age = input('Input your age: ')
+print('Hello '+name+' you are '+age+' years old')
 

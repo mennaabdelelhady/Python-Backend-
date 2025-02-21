@@ -1,7 +1,7 @@
 from math import *
 #print('Hello World,welcome')
 
-#name = 'Tamara'
+name = 'Tamara'
 #age = 22
 #print(name+' is a girl')
 #print(name+' is ', age)
@@ -34,8 +34,5 @@ print(bin(3))
 print(bin(334))
 print(sqrt(9))
 
-##getting input from user
-name = input('Input your name: ')
-age = int(input('Input your age: '))
-print('Hello '+name+' you are ',age,' years old')
+
 

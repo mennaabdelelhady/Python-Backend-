@@ -1,0 +1,11 @@
+three_numbers =tuple((1,'home',1,True,2,3))
+print(three_numbers)
+print(three_numbers[0])
+print(len(three_numbers))
+print(three_numbers.count(1))
+print(type(three_numbers))
+
+strings =('home','school','work')
+bools = (True,False,True)
+print(strings)
+print(bools)
