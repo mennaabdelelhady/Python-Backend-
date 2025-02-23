@@ -39,10 +39,9 @@ name = input('Input your name: ')
 age = int(input('Input your age: '))
 print('Hello '+name+' you are ',age,' years old')
 
-coun_file = open("C:/Users/user/OneDrive/Desktop/Python Backend/countries.txt","r")#read
-print(coun_file.readlines()[3])
+coun_file = open('countries.txt','r')#read
 coun_file.close()
-
+print(coun_file.readable())
 #open('countries.txt','w')#write
 #open('countries.txt','a')#append
 #open('countries.txt','r+')#read and write
